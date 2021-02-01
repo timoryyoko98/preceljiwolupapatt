@@ -1,0 +1,4 @@
+baseURL = "https://animedcathooplu5.vercel.app"
+languageCode = "en-us"
+title = "Animed of Cat 2021"
+theme = "hugo-theme-minos"
